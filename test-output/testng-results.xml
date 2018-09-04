@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="104467" started-at="2018-08-31T06:32:54Z" finished-at="2018-08-31T06:34:39Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="104467" started-at="2018-08-31T06:32:54Z" finished-at="2018-08-31T06:34:39Z">
+      <class name="TestScripts.TestClioConfig">
+        <test-method status="PASS" signature="classOpenBrowser()[pri:0, instance:TestScripts.TestClioConfig@6a41eaa2]" name="classOpenBrowser" is-config="true" duration-ms="16630" started-at="2018-08-31T06:32:55Z" finished-at="2018-08-31T06:33:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- classOpenBrowser -->
+        <test-method status="PASS" signature="testClioConfig()[pri:0, instance:TestScripts.TestClioConfig@6a41eaa2]" name="testClioConfig" duration-ms="87109" started-at="2018-08-31T06:33:11Z" finished-at="2018-08-31T06:34:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testClioConfig -->
+        <test-method status="PASS" signature="classCloseBrowser()[pri:0, instance:TestScripts.TestClioConfig@6a41eaa2]" name="classCloseBrowser" is-config="true" duration-ms="0" started-at="2018-08-31T06:34:39Z" finished-at="2018-08-31T06:34:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- classCloseBrowser -->
+      </class> <!-- TestScripts.TestClioConfig -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
